@@ -104,11 +104,10 @@ http://localhost/Restaurant-Management-System
 
 ## 📸 Screenshots
 
-
 ## 🔐 Login Page
 
 <p align="center">
-  <img src="screenshots/login.png" width="850">
+  <img src="Screenshots/login.png" width="850">
 </p>
 
 ---
@@ -116,7 +115,7 @@ http://localhost/Restaurant-Management-System
 ## 📝 Register Page
 
 <p align="center">
-  <img src="screenshots/register.png" width="850">
+  <img src="Screenshots/register.png" width="850">
 </p>
 
 ---
@@ -124,7 +123,7 @@ http://localhost/Restaurant-Management-System
 ## 🏠 Home Page
 
 <p align="center">
-  <img src="screenshots/home.png" width="850">
+  <img src="Screenshots/home.png" width="850">
 </p>
 
 ---
@@ -132,7 +131,7 @@ http://localhost/Restaurant-Management-System
 ## 📊 Admin Dashboard
 
 <p align="center">
-  <img src="screenshots/dashboard.png" width="850">
+  <img src="Screenshots/dashboard.png" width="850">
 </p>
 
 ---
@@ -140,7 +139,7 @@ http://localhost/Restaurant-Management-System
 ## 🍔 Menu Management
 
 <p align="center">
-  <img src="screenshots/menu.png" width="850">
+  <img src="Screenshots/menu.png" width="850">
 </p>
 
 ---
@@ -148,7 +147,7 @@ http://localhost/Restaurant-Management-System
 ## ➕ Add Menu Item
 
 <p align="center">
-  <img src="screenshots/add-menu.png" width="850">
+  <img src="Screenshots/add-menu.png" width="850">
 </p>
 
 ---
@@ -156,7 +155,7 @@ http://localhost/Restaurant-Management-System
 ## 📦 Orders Management
 
 <p align="center">
-  <img src="screenshots/orders.png" width="850">
+  <img src="Screenshots/orders.png" width="850">
 </p>
 
 
