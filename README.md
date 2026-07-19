@@ -160,59 +160,6 @@ http://localhost/Restaurant-Management-System
 
 
 =======
-## 🔐 Login Page
-
-<p align="center">
-  <img src="screenshots/login.png" width="850">
-</p>
-
----
-
-## 📝 Register Page
-
-<p align="center">
-  <img src="screenshots/register.png" width="850">
-</p>
-
----
-
-## 🏠 Home Page
-
-<p align="center">
-  <img src="screenshots/home.png" width="850">
-</p>
-
----
-
-## 📊 Admin Dashboard
-
-<p align="center">
-  <img src="screenshots/dashboard.png" width="850">
-</p>
-
----
-
-## 🍔 Menu Management
-
-<p align="center">
-  <img src="screenshots/menu.png" width="850">
-</p>
-
----
-
-## ➕ Add Menu Item
-
-<p align="center">
-  <img src="screenshots/add-menu.png" width="850">
-</p>
-
----
-
-## 📦 Orders Management
-
-<p align="center">
-  <img src="screenshots/orders.png" width="850">
-</p>---
 
 >>>>>>> 3228290d72d373f5d39b1c1cda2180cd5e6b40b8
 ## 🚀 Future Improvements
