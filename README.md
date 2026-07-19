@@ -1,5 +1,15 @@
 # 🍽️ Restaurant Management System
 
+<p align="center">
+
+![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</p>
+
 A simple Restaurant Management System built with PHP, MySQL, HTML, CSS, and JavaScript.
 
 ## 📌 Overview
@@ -91,23 +101,59 @@ http://localhost/Restaurant-Management-System
 
 ## 📸 Screenshots
 
-### Login Page
+## 🔐 Login Page
 
-(Add screenshot here)
-
-### Admin Dashboard
-
-(Add screenshot here)
-
-### Menu Management
-
-(Add screenshot here)
-
-### Orders Management
-
-(Add screenshot here)
+<p align="center">
+  <img src="screenshots/login.png" width="850">
+</p>
 
 ---
+
+## 📝 Register Page
+
+<p align="center">
+  <img src="screenshots/register.png" width="850">
+</p>
+
+---
+
+## 🏠 Home Page
+
+<p align="center">
+  <img src="screenshots/home.png" width="850">
+</p>
+
+---
+
+## 📊 Admin Dashboard
+
+<p align="center">
+  <img src="screenshots/dashboard.png" width="850">
+</p>
+
+---
+
+## 🍔 Menu Management
+
+<p align="center">
+  <img src="screenshots/menu.png" width="850">
+</p>
+
+---
+
+## ➕ Add Menu Item
+
+<p align="center">
+  <img src="screenshots/add-menu.png" width="850">
+</p>
+
+---
+
+## 📦 Orders Management
+
+<p align="center">
+  <img src="screenshots/orders.png" width="850">
+</p>---
 
 ## 🚀 Future Improvements
 
