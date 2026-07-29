@@ -22,7 +22,6 @@ if (isset($_SESSION['user_id']) && isset($_SESSION['user_type']) && $_SESSION['u
             echo "<h3 style='color:red; text-align:center;'>Error !: {$conn->error}</h3>";
         }
         else{
-            // 3. تصحيح: الطريقة الصحيحة لرفع الصورة للسيرفر
             if(move_uploaded_file($temp_location, $tar_location)) {
                 echo "<h3 style='color:green; text-align:center;'>Item added and image uploaded successfully!</h3>";
             } else {
@@ -32,7 +31,6 @@ if (isset($_SESSION['user_id']) && isset($_SESSION['user_type']) && $_SESSION['u
     }
 } 
 else {
-    // إذا مكانش أدمن أو مامسجلش، كيطردو نيشان لصفحة الـ login
     header("Location: ../loging.php");
     exit(); 
 }

@@ -1,5 +1,5 @@
 <?php
-include("../db.php"); // بدل الاسم إذا كان مختلف
+include("../db.php"); 
 
 $totalUsers = mysqli_num_rows(mysqli_query($conn, "SELECT * FROM usere"));
 $totalMenu = mysqli_num_rows(mysqli_query($conn, "SELECT * FROM menu_tems"));
