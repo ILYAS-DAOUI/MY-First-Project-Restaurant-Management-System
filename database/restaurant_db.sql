@@ -88,10 +88,8 @@ CREATE TABLE `usere` (
 --
 
 INSERT INTO `usere` (`id`, `name`, `email`, `password`, `type`, `adress`, `phone`) VALUES
-(105, 'ilyas', 'ilyasdaoui62@gmail.com', '2212', 'user', '', '0688412040'),
-(108, 'DAOUI داوي', 'ilyas.daoui@edu.uiz.ac.ma', '1234', 'admin', 'HARATE EL MORABITINE', '0772999493'),
-(109, '', '', '', 'user', '', '0772999493'),
-(113, 'MOUSSAB', 'MOUSSAB@gmail.com', '1234', 'user', 'JLG JHGJKBUJ', '0000000000000000');
+(109, 'USER', 'USER@gmail.com', '1234', 'user', '', '000000000'),
+(113, 'MOUSSAB', 'USER2@gmail.com', '1234', 'user', 'JLG JHGJKBUJ', '0000000000000000');
 
 --
 -- Indexes for dumped tables
